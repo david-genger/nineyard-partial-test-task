@@ -1,0 +1,9 @@
+.new-connection {
+  &_data-inputs {
+    grid-template:
+      "name name" auto
+      "marketplace id" auto
+      "action action" auto /
+      1fr 1fr;
+  }
+}
